@@ -4,7 +4,7 @@
 # epoch 721 to 960
 epoch bonus 94%
 
-https://etherscan.io/tx/0xb6fc6b8c0faef69cae00eeedb80472e8292ae751a715a425881313f5d73c817f
+https://etherscan.io/tx/0x1b93e15cc19d50c81b16b94ceff01540fa25f12bcb49f7db9c586e936889bc37
 
 # epoch 481 to 720
 epoch bonus 94%
