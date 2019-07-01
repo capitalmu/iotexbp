@@ -1,5 +1,9 @@
 # iotexbp reward distribution
 
+# epoch 1201 to 1440
+epoch bonus 94%
+https://etherscan.io/tx/0x300e55a2134bec87c8afa0e496ae89c3655992bfb30b3d703856e5bc231bf891
+
 # epoch 961 to 1200
 epoch bonus 94%
 
