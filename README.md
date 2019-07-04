@@ -1,5 +1,8 @@
 # iotexbp reward distribution
 
+# epoch 1441 to 1680
+https://www.etherchain.org/tx/d6119b6c8c6a69bc1823fe6e21755539edd6442a676b0658cc24cf132b04c52c
+
 # epoch 1201 to 1440
 epoch bonus 94%
 
