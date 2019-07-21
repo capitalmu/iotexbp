@@ -1,4 +1,4 @@
-# iotexbp reward distribution
+# CapitalMu IOTEX delegate reward distribution
 
 # epoch 1681 to 1920
 epoch bonus 94%
