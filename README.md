@@ -1,5 +1,10 @@
 # CapitalMu IOTEX delegate reward distribution
 
+# epoch 3481 to 3840
+epoch bonus 94%
+
+https://etherscan.io/tx/0x53bdba74e04f802927823b29a93b0293126ef29650c80d43ffb08fd77fac6cb4
+
 # epoch 3121 to 3480
 epoch bonus 94%
 
