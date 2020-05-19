@@ -1,4 +1,11 @@
+# Going forward delegate reward will be distributed via hermes (http://hermes.to)
+
 # CapitalMu IOTEX delegate reward distribution
+
+# epoch 7291 to 9365
+epoch bonus 94%
+
+https://etherscan.io/tx/0x84fc1c8fbf6cd9862aa46a40150c0213cbbc60ab3d7cacaf558c6c34ee02636b
 
 # epoch 6961 to 7290
 epoch bonus 94%
